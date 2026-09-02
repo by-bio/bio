@@ -1,0 +1,193 @@
+https://dash.cloudflare.com/72bf11e0b814092217e6b1c0e5090161/b.io.vn/rules/overview
+
+====================
+
+Rules
+
+Redirect Rules
+Create rules to redirect visitors from a source URL to a target URL.
+
+Back
+Edit Single Redirect
+Rule name (required)
+Fw Images
+Give your rule a descriptive name.
+If incoming requests match…
+
+
+Wildcard pattern
+
+Only apply the rule to requests matching the wildcard pattern
+
+
+Custom filter expression
+
+Only apply the rule to requests matching the custom filter expression
+
+
+All incoming requests
+
+Apply the rule to all requests
+
+Request URL
+https://b.io.vn/_next/image*
+By using the asterisk (*) character to create a pattern that can match many requests e.g. https://*.example.com/files/*
+Then...
+Redirect to target URL. This can be static or dynamic using a wildcard replacement ${1}, ${2}, etc.
+Target URL
+https://3n4.is/_next/image${1}
+e.g. https://example.com/${1}/${2}
+Status code
+308 - Advanced: Permanent, HTTP method preserved
+
+Preserve query string
+Place at
+
+Select order:
+First
+
+
+====================
+
+Rules
+
+Redirect Rules
+Create rules to redirect visitors from a source URL to a target URL.
+
+Back
+Edit Single Redirect
+Rule name (required)
+Label 1+2
+Give your rule a descriptive name.
+If incoming requests match…
+
+
+Wildcard pattern
+
+Only apply the rule to requests matching the wildcard pattern
+
+
+Custom filter expression
+
+Only apply the rule to requests matching the custom filter expression
+
+
+All incoming requests
+
+Apply the rule to all requests
+
+Request URL
+https://b.io.vn/search/label/*/*
+By using the asterisk (*) character to create a pattern that can match many requests e.g. https://*.example.com/files/*
+Then...
+Redirect to target URL. This can be static or dynamic using a wildcard replacement ${1}, ${2}, etc.
+Target URL
+https://b.io.vn/search/label/${1}+${2}
+e.g. https://example.com/${1}/${2}
+Status code
+307 - Advanced: Temporary, HTTP method preserved
+
+Preserve query string
+Place at
+
+Select order:
+Custom
+Select which rule this will fire after:
+Fw Images
+
+
+
+======================
+Rules
+
+Redirect Rules
+Create rules to redirect visitors from a source URL to a target URL.
+
+Back
+Edit Single Redirect
+Rule name (required)
+Label 1+2+3
+Give your rule a descriptive name.
+If incoming requests match…
+
+
+Wildcard pattern
+
+Only apply the rule to requests matching the wildcard pattern
+
+
+Custom filter expression
+
+Only apply the rule to requests matching the custom filter expression
+
+
+All incoming requests
+
+Apply the rule to all requests
+
+Request URL
+https://b.io.vn/search/label/*/*/*
+By using the asterisk (*) character to create a pattern that can match many requests e.g. https://*.example.com/files/*
+Then...
+Redirect to target URL. This can be static or dynamic using a wildcard replacement ${1}, ${2}, etc.
+Target URL
+https://b.io.vn/search/label/${1}+${2}+${3}
+e.g. https://example.com/${1}/${2}
+Status code
+307 - Advanced: Temporary, HTTP method preserved
+
+Preserve query string
+Place at
+
+Select order:
+Custom
+Select which rule this will fire after:
+Label 1+2
+
+==================
+
+Rules
+
+Redirect Rules
+Create rules to redirect visitors from a source URL to a target URL.
+
+Back
+Edit Single Redirect
+Rule name (required)
+Label project
+Give your rule a descriptive name.
+If incoming requests match…
+
+
+Wildcard pattern
+
+Only apply the rule to requests matching the wildcard pattern
+
+
+Custom filter expression
+
+Only apply the rule to requests matching the custom filter expression
+
+
+All incoming requests
+
+Apply the rule to all requests
+
+Request URL
+https://b.io.vn/search/label/projects+*
+By using the asterisk (*) character to create a pattern that can match many requests e.g. https://*.example.com/files/*
+Then...
+Redirect to target URL. This can be static or dynamic using a wildcard replacement ${1}, ${2}, etc.
+Target URL
+https://b.io.vn/p/${1}
+e.g. https://example.com/${1}/${2}
+Status code
+307 - Advanced: Temporary, HTTP method preserved
+
+Preserve query string
+Place at
+
+Select order:
+Custom
+Select which rule this will fire after:
+Label 1+2+3
