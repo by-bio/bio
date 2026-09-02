@@ -3548,7 +3548,7 @@
 							children: [(0, m.jsx)("img", e7(e7({}, {
 								className: "x1lliihq xh8yej3 x5yr21d xl1xv1r"
 							}), {}, {
-								src: "/projects/turnips-exchange/card/acnh-scene.jpeg",
+								src: "/projects/t-ex/card/acnh-scene.jpeg",
 								alt: "",
 								width: "1280",
 								height: "720"
@@ -6472,7 +6472,7 @@
 					title: "page.js — The ACNH Community",
 					oneLiner: "A two-day turnip price tracker that grew into Link, an ACNH community used by 100k+ people across 143 countries.",
 					keywords: ["Animal Crossing", "React Native", "Firebase", "Community", "Web & iOS & Android"],
-					cover: "/projects/turnips-exchange/link-airport.jpg",
+					cover: "/projects/t-ex/link-airport.jpg",
 					coverPosition: "center 12%"
 				},
 				d = new Map([r, l, n, o, i, s].map(e => [e.nodeId, e]));

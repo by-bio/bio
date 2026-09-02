@@ -1077,128 +1077,128 @@
 					alt: "Talk slide ".concat(t + 1, " of ").concat(ec.length, ". ").concat(e)
 				})),
 				ed = [{
-					src: "/projects/turnips-exchange/flight-card.jpg",
+					src: "/projects/t-ex/flight-card.jpg",
 					alt: "A Turnips Exchange flight for スイカ island, buying turnips for 512 Bells",
 					width: 646,
 					height: 1400
 				}, {
-					src: "/projects/turnips-exchange/price-tracker.jpg",
+					src: "/projects/t-ex/price-tracker.jpg",
 					alt: "The personal Turnips Exchange price tracker charting three weeks of prices",
 					width: 646,
 					height: 1400
 				}, {
-					src: "/projects/turnips-exchange/turnips-app/homepage-zh.jpg",
+					src: "/projects/t-ex/turnips-app/homepage-zh.jpg",
 					alt: "The Chinese Turnips Exchange homepage with price sharing and personal tracker links",
 					width: 461,
 					height: 2048
 				}, {
-					src: "/projects/turnips-exchange/turnips-app/airport-terminals.jpg",
+					src: "/projects/t-ex/turnips-app/airport-terminals.jpg",
 					alt: "The Turnips Exchange Airport with turnips, special visitor, and general terminals",
 					width: 293,
 					height: 2048
 				}, {
-					src: "/projects/turnips-exchange/turnips-app/terminal-announcement.jpg",
+					src: "/projects/t-ex/turnips-app/terminal-announcement.jpg",
 					alt: "A Twitter announcement introducing the Turnips Exchange terminal system",
 					width: 946,
 					height: 2048
 				}, {
-					src: "/projects/turnips-exchange/turnips-app/badges-announcement.jpg",
+					src: "/projects/t-ex/turnips-app/badges-announcement.jpg",
 					alt: "A Twitter announcement showing badges and names highlighted in the queue and chat",
 					width: 946,
 					height: 2048
 				}, {
-					src: "/projects/turnips-exchange/turnips-app/private-flight-announcement.jpg",
+					src: "/projects/t-ex/turnips-app/private-flight-announcement.jpg",
 					alt: "A Twitter announcement explaining private flights with closed groups",
 					width: 946,
 					height: 2048
 				}, {
-					src: "/projects/turnips-exchange/turnips-app/system-messages-announcement.jpg",
+					src: "/projects/t-ex/turnips-app/system-messages-announcement.jpg",
 					alt: "A Twitter announcement showing system messages in Turnips Exchange chat",
 					width: 946,
 					height: 2048
 				}, {
-					src: "/projects/turnips-exchange/turnips-app/catalog-announcement.jpg",
+					src: "/projects/t-ex/turnips-app/catalog-announcement.jpg",
 					alt: "A Twitter announcement introducing the Turnips Exchange item catalog",
 					width: 946,
 					height: 2048
 				}, {
-					src: "/projects/turnips-exchange/turnips-app/price-tracker-zh.jpg",
+					src: "/projects/t-ex/turnips-app/price-tracker-zh.jpg",
 					alt: "The Chinese price tracker showing a rising turnip price chart",
 					width: 946,
 					height: 2048
 				}],
 				ep = [{
-					src: "/projects/turnips-exchange/link-brand/logo-process.jpg",
+					src: "/projects/t-ex/link-brand/logo-process.jpg",
 					alt: "The Link logo design process with sketches, variations, and the selected identity",
 					width: 2048,
 					height: 1515
 				}, {
-					src: "/projects/turnips-exchange/link-brand/miss-link-portrait.jpg",
+					src: "/projects/t-ex/link-brand/miss-link-portrait.jpg",
 					alt: "Miss Link wearing a yellow Link uniform and cap inside Animal Crossing",
 					width: 1280,
 					height: 720
 				}, {
-					src: "/projects/turnips-exchange/link-brand/story-page.jpg",
+					src: "/projects/t-ex/link-brand/story-page.jpg",
 					alt: "The original story page introducing Link Inc. and its place in the Animal Crossing world",
 					width: 734,
 					height: 872
 				}, {
-					src: "/projects/turnips-exchange/link-brand/miss-link-resident-services.jpg",
+					src: "/projects/t-ex/link-brand/miss-link-resident-services.jpg",
 					alt: "Miss Link standing with Tom Nook and Isabelle at Resident Services",
 					width: 1280,
 					height: 720
 				}, {
-					src: "/projects/turnips-exchange/link-brand/app-store.jpg",
+					src: "/projects/t-ex/link-brand/app-store.jpg",
 					alt: "The Link app listing in the iOS App Store with the final logo and product screenshots",
 					width: 946,
 					height: 2048
 				}, {
-					src: "/projects/turnips-exchange/link-app/airport.jpg",
+					src: "/projects/t-ex/link-app/airport.jpg",
 					alt: "The Link Airport home screen with terminals for turnips and general visits",
 					width: 828,
 					height: 1792
 				}, {
-					src: "/projects/turnips-exchange/link-app/turnips.jpg",
+					src: "/projects/t-ex/link-app/turnips.jpg",
 					alt: "The Turnips terminal in Link showing open island flights",
 					width: 828,
 					height: 1792
 				}, {
-					src: "/projects/turnips-exchange/link-app/general.jpg",
+					src: "/projects/t-ex/link-app/general.jpg",
 					alt: "The General terminal in Link for special visitors and island activities",
 					width: 828,
 					height: 1792
 				}, {
-					src: "/projects/turnips-exchange/link-app/link-island-form.jpg",
+					src: "/projects/t-ex/link-app/link-island-form.jpg",
 					alt: "A Link Island community post being composed in the app",
 					width: 828,
 					height: 1792
 				}, {
-					src: "/projects/turnips-exchange/link-app/link-island.jpg",
+					src: "/projects/t-ex/link-app/link-island.jpg",
 					alt: "The Link Island community feed with an in-game event post",
 					width: 828,
 					height: 1792
 				}, {
-					src: "/projects/turnips-exchange/link-community/airport-announcement.jpg",
+					src: "/projects/t-ex/link-community/airport-announcement.jpg",
 					alt: "A Link community announcement introducing the Airport",
 					width: 946,
 					height: 2048
 				}, {
-					src: "/projects/turnips-exchange/link-community/turnips-announcement.jpg",
+					src: "/projects/t-ex/link-community/turnips-announcement.jpg",
 					alt: "A Link community post inviting players to share high turnip prices",
 					width: 946,
 					height: 2048
 				}, {
-					src: "/projects/turnips-exchange/link-community/visitors-announcement.jpg",
+					src: "/projects/t-ex/link-community/visitors-announcement.jpg",
 					alt: "A Link community post inviting players to host visitors for island activities",
 					width: 946,
 					height: 2048
 				}, {
-					src: "/projects/turnips-exchange/link-community/verification-announcement.jpg",
+					src: "/projects/t-ex/link-community/verification-announcement.jpg",
 					alt: "A Link community post explaining profile verification",
 					width: 946,
 					height: 2048
 				}, {
-					src: "/projects/turnips-exchange/link-community/queue-chat-announcement.jpg",
+					src: "/projects/t-ex/link-community/queue-chat-announcement.jpg",
 					alt: "A Link community post explaining queue and live chat",
 					width: 946,
 					height: 2048
@@ -1598,7 +1598,7 @@
 								caption: "My little performance for you to enjoy.",
 								children: (0, h.jsx)(w, {
 									src: (0, O.SG)("/projects/turnips-exchange/little-performance.mp4"),
-									poster: "/projects/turnips-exchange/little-performance-poster.jpg",
+									poster: "/projects/t-ex/little-performance-poster.jpg",
 									label: "In-game clip of a little performance on スイカ island",
 									width: 1280,
 									height: 720
