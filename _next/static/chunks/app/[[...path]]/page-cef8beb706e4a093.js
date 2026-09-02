@@ -3541,7 +3541,7 @@
 					$$css: !0
 				},
         
-        
+        //bio project function
 				tM = {
 					"turnips-exchange": function() {
 						return (0, m.jsxs)("div", e7(e7({}, p.xk(e5.y.frame)), {}, {
@@ -6464,7 +6464,7 @@
 				tv: () => r
 			});
       
-//bio      
+//bio project data
 			var i={nodeId:"ens-l2-zksync",year:"2022",title:"ENS Layer 2 Support for zkSync",oneLiner:"The first ENS L2 support showcase with zkSync—record updates had roughly 130× lower gas fees and confirmed faster than on L1.",keywords:["Ethereum","EIP-3668","zkSync","ENS","Solidity"],award:"zkSync Best Application — HackMoney 2022"},r={nodeId:"allgood",year:"2025",title:"It's ALL GOOD.",oneLiner:"An ongoing project to shape a delightful perspective of my own, starting with a selection from designer brands I love.",keywords:["Curation","Creative Direction","Brand","Design"],cover:"/projects/allgood/wordmark.jpg",coverSize:"145%"},l={nodeId:"talktonft",year:"2023",title:"talktonft.ai",oneLiner:"An AI experiment that let anyone chat with a public NFT, with a roadmap for creators, owners, and communities to shape its character and world.",keywords:["AI Characters","LangChain","Vector Search","NFT Metadata","Community"],cover:"/projects/talktonft/home-2023.jpg",coverPosition:"top"},n={nodeId:"doudou",year:"2022–present",title:"DOU",oneLiner:"A collection of pictures I made from moments in our life that I wanted to remember.",keywords:["3D Printing","Character Design","iPad Drawing","Label-Name"],cover:"/projects/doudou/dou-and-bao.jpg",coverPosition:"center 70%"},o={nodeId:"peeps-online",year:"2022",title:"peeps online",oneLiner:"A Web3 identity world my friends and I imagined around a growing cast of characters—and where I first became 3n4.",keywords:["Web3","NFT","Social Identity","Character Design","ENS"],award:"Pool prizes — ETHOnline 2022",cover:"/projects/peeps-online/3n4-astronaut.jpg",coverPosition:"center 30%"},
 				s = {
 					nodeId: "turnips-exchange",
