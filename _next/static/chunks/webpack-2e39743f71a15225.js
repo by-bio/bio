@@ -3696,23 +3696,23 @@ var iDownloadKeySize = [{
 				size: 0x115185d,
 				thumb: !0
 			}, {
-				key: "sitemap/comedy-performances/comedy/Learn English with Ricky Gervais.mp4",
+				key: "sitemap/comedy-performances/comedy Learn English with Ricky Gervais.mp4",
 				size: 0x3012308,
 				thumb: !0
 			}, {
-				key: "sitemap/comedy-performances/comedy/Louis CK - You're Amazing.mp4",
+				key: "sitemap/comedy-performances/comedy Louis CK - You're Amazing.mp4",
 				size: 0x73d5a43,
 				thumb: !0
 			}, {
-				key: "sitemap/comedy-performances/comedy/Louis CK's Dog Joke.mp4",
+				key: "sitemap/comedy-performances/comedy Louis CK's Dog Joke.mp4",
 				size: 0x30b2864,
 				thumb: !0
 			}, {
-				key: "sitemap/comedy-performances/comedy/Norm Macdonald's Moth Joke.mp4",
+				key: "sitemap/comedy-performances/comedy Norm Macdonald's Moth Joke.mp4",
 				size: 0x3e83901,
 				thumb: !0
 			}, {
-				key: "sitemap/comedy-performances/comedy/Who's On First - Abbott and Costello.mp4",
+				key: "sitemap/comedy-performances/comedy Who's On First - Abbott and Costello.mp4",
 				size: 0x44d669c,
 				thumb: !0
 			}, {
