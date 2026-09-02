@@ -567,14 +567,14 @@
 			var i = a(1106),
 				r = a(8490),
 				l = {
-					"traditional-opera-and-folk-arts": {
-						title: "Traditional Opera & Folk Arts"
+					"folder-four": {
+						title: "Folder Four"
 					},
-					"traditional-opera-and-folk-arts/two-person-crosstalk": {
+					"folder-four/ffour-four": {
 						title: "Two-Person Crosstalk"
 					},
-					"tv-crosstalk-and-skits": {
-						title: "TV Crosstalk & Skits"
+					"folder-five": {
+						title: "Folder & Five"
 					}
 				},
 				n = {};
