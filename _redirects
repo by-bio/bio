@@ -1,11 +1,11 @@
-/search/-         /search/label/-/      308
-/search/-/        /search/label/-/      308
-/search/-/*       /search/label/:splat  308
+/search/-   /search/label/-/      308
+/search/-/  /search/label/-/      308
+/search/-/* /search/label/:splat  308
 
-/search/~         /search/label/~/      308
-/search/~/        /search/label/~/      308
-/search/~/*       /p/:splat.html        308
+/search/~   /search/label/~/      308
+/search/~/  /search/label/~/      308
+/search/~/* /p/:splat-write.html  308
 
-/search/!         /search/label/!/      308
-/search/!/        /search/label/!/      308
-/search/!/*       /p/:splat.html        308
+/search/!   /search/label/!/      308
+/search/!/  /search/label/!/      308
+/search/!/* /p/:splat-proj.html   308
