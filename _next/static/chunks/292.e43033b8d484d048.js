@@ -247,8 +247,13 @@
 						src: r
             */
             
-            
-            frameborder: 0,
+/*
+<video src="https://m.b.io.vn/sitemap/folder-three/Pit-Larva.mp4" controls="" playsinline="" preload="metadata" class="xh8yej3 x186iv6y xur7f20 xk3s23f x19kjcj4"></video>
+
+<iframe class="xh8yej3 x186iv6y xur7f20 xk3s23f x19kjcj4"  src="https://www.youtube.com/embed/ELZg33is0Rg" title="Tickle" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+*/            
+            frameborder: !0,
 						allow: 'autoplay; encrypted-media',
 						allowfullscreen: "true",
             title: 'video',
@@ -256,20 +261,7 @@
             
             
             
-					},
-
-/*
-<iframe
-  src='https://www.youtube.com/embed/E7wJTI-1dvQ'
-  frameborder='0'
-  allow='autoplay; encrypted-media'
-  allowfullscreen
-  title='video'
-/>
-
-
-*/
-          {
+					},{
 						className: "x1lliihq x1tlnvxs x193iq5w xt7dq6l x1kogg8i xiwl1h2"
 					})) : (0, d.jsx)("a", j(j({
 						href: r

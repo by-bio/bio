@@ -4552,7 +4552,7 @@
 						src: t.url,
 						active: null == i,
 						stylexProps: {
-							className: "xh8yej3 x186iv6y xur7f20 xk3s23f x19kjcj4"
+							className: "xh8yej3 x186iv6y xur7f20 xk3s23f x19kjcj4 pagejs"
 						}
 					}, t.key)
 				})
