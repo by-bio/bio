@@ -253,10 +253,12 @@
 <iframe class="xh8yej3 x186iv6y xur7f20 xk3s23f x19kjcj4"  src="https://www.youtube.com/embed/ELZg33is0Rg" title="Tickle" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 */            
+            playsInline: !0,
+            
             frameborder: !0,
-						allow: 'autoplay; encrypted-media',
+						allow: "autoplay; encrypted-media",
 						allowfullscreen: "true",
-            title: 'video',
+            //title: "video",
 						src: r
             
             
