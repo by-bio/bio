@@ -240,28 +240,26 @@
 						}(x, r) ? (0, d.jsx)("iframe", j({
               
               
-            /*bio
+           
             controls: !0,
-						playsInline: !0,
+						playsInline: "playsInline",
 						preload: "metadata",
 						src: r
-            */
+           
             
 /*
 <video src="https://m.b.io.vn/sitemap/folder-three/Pit-Larva.mp4" controls="" playsinline="" preload="metadata" class="xh8yej3 x186iv6y xur7f20 xk3s23f x19kjcj4"></video>
 
 <iframe class="xh8yej3 x186iv6y xur7f20 xk3s23f x19kjcj4"  src="https://www.youtube.com/embed/ELZg33is0Rg" title="Tickle" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-*/            
-            playsInline: !0,
-            
+         
             frameborder: !0,
 						allow: "autoplay; encrypted-media",
 						allowfullscreen: "true",
             //title: "video",
 						src: r
             
-            
+  */             
             
 					},{
 						className: "x1lliihq x1tlnvxs x193iq5w xt7dq6l x1kogg8i xiwl1h2"
