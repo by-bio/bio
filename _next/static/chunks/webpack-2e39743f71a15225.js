@@ -3724,35 +3724,35 @@ var iDownloadKeySize = [{
 				size: 0x25d5777,
 				thumb: !0
 			}, {
-				key: "sitemap/miscellaneous/Peiping Family(1948).mp4",
+				key: "sitemap/folder-two/Peiping Family(1948).mp4",
 				size: 0x571dd0e,
 				thumb: !0
 			}, {
-				key: "sitemap/miscellaneous/The square hole.mp4",
+				key: "sitemap/folder-two/The square hole.mp4",
 				size: 5930583,
 				thumb: !0
 			}, {
-				key: "sitemap/miscellaneous/相声纪录片：笑 1979年.mp4",
+				key: "sitemap/folder-two/相声纪录片：笑 1979年.mp4",
 				size: 0x15c045a5,
 				thumb: !0
 			}, {
-				key: "sitemap/songs/演唱 《メロディー》 玉置浩二.flv",
+				key: "sitemap/folder-three/演唱 《メロディー》 玉置浩二.flv",
 				size: 0x37d546f,
 				thumb: !0
 			}, {
-				key: "sitemap/songs/演唱 《你把我灌醉》 黄大煒 《时光音乐会•老友记》 .mp4",
+				key: "sitemap/folder-three/演唱 《你把我灌醉》 黄大煒 《时光音乐会•老友记》 .mp4",
 				size: 0x3e5ca2e,
 				thumb: !0
 			}, {
-				key: "sitemap/songs/演唱 《夢をかなえてドラえもん》 ちょねさゆ はがゆき.flv",
+				key: "sitemap/folder-three/演唱 《夢をかなえてドラえもん》 ちょねさゆ はがゆき.flv",
 				size: 0x3158a05,
 				thumb: !0
 			}, {
-				key: "sitemap/songs/演唱 《遇见 (陕西话版)》 陈墨一（吖毛）.mp4",
+				key: "sitemap/folder-three/演唱 《遇见 (陕西话版)》 陈墨一（吖毛）.mp4",
 				size: 0x8740848,
 				thumb: !0
 			}, {
-				key: "sitemap/songs/说唱 《健將plus》 小精靈 法老 早安 中國說唱巔峰對決2023.mp4",
+				key: "sitemap/folder-three/说唱 《健將plus》 小精靈 法老 早安 中國說唱巔峰對決2023.mp4",
 				size: 0x6e4cd42,
 				thumb: !0
 			}, {
