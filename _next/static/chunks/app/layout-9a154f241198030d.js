@@ -78,9 +78,7 @@
 									sdkv: "2.0.0"
 								};
                 //bio
-                return;
-                
-								return o.sampleRate && (i.sampleRate = o.sampleRate.toString()), o.route && (i.route = o.route), u() && !1 === o.debug && (i.debug = "false"), o.dsn && (i.dsn = o.dsn), o.endpoint ? i.endpoint = f(o.endpoint) : o.basePath && (i.endpoint = f("".concat(o.basePath, "/speed-insights/vitals"))), {
+								return false && o.sampleRate && (i.sampleRate = o.sampleRate.toString()), o.route && (i.route = o.route), u() && !1 === o.debug && (i.debug = "false"), o.dsn && (i.dsn = o.dsn), o.endpoint ? i.endpoint = f(o.endpoint) : o.basePath && (i.endpoint = f("".concat(o.basePath, "/speed-insights/vitals"))), {
 									src: (r = o).scriptSrc ? f(r.scriptSrc) : u() ? "https://va.vercel-scripts.com/v1/speed-insights/script.debug.js" : r.dsn ? "https://va.vercel-scripts.com/v1/speed-insights/script.js" : r.basePath ? f("".concat(r.basePath, "/speed-insights/script.js")) : "/_vercel/speed-insights/script.js",
 									beforeSend: o.beforeSend,
 									dataset: i
